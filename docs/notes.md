@@ -19,3 +19,4 @@ Notes and usage details for nvim-config.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- link the usage section
